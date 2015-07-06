@@ -3,9 +3,9 @@ alias lsa='ls -lah'
 alias kwp='cd ~/Web/wordpress' 
 
 #LearnerZone Aliases
-alias lzwp='cd ~/var/www/html'
-alias lzplugins='cd ~/var/www/html/wp-content/plugins'
-alias lzthemes='cd ~/var/www/html/wp-content/themes'
+alias lzwp='cd /var/www/html'
+alias lzplugins='cd /var/www/html/wp-content/plugins'
+alias lzthemes='cd /var/www/html/wp-content/themes'
 alias reload='source ~/.bashrc' 
 
 # Easier navigation: .., ..., ...., ....., ~ and -
