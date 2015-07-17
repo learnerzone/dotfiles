@@ -5,7 +5,7 @@ alias kwp='cd ~/Web/wordpress'
 #LearnerZone Aliases
 alias lzwp='cd /var/www/html'
 alias lzp='cd /var/www/html/wp-content/plugins'
-alias lzt='cd /var/www/html/wp-content/themes/invent-child'
+alias lzt='cd /var/www/html/wp-content/themes/LZ-invent'
 alias lzu='cd /var/www/html/wp-content/uploads'
 alias reload='source ~/.bashrc' 
 
