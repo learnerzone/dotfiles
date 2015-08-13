@@ -7,6 +7,13 @@ alias lzwp='cd /var/www/html'
 alias lzp='cd /var/www/html/wp-content/plugins'
 alias lzt='cd /var/www/html/wp-content/themes/LZ-invent'
 alias lzu='cd /var/www/html/wp-content/uploads'
+
+#SafeguardingTP Aliases
+alias wp='cd /var/www/html'
+alias wpp='cd /var/www/html/wp-content/plugins'
+alias wpt='cd /var/www/html/wp-content/themes'
+alias wpu='cd /var/www/html/wp-content/uploads'
+
 alias reload='source ~/.bashrc' 
 
 # Easier navigation: .., ..., ...., ....., ~ and -
